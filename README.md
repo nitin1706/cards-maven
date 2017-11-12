@@ -11,6 +11,5 @@ git clone
 cd to checked-out code location
 cd cards-maven
 
-mvn clean install 
-
-java -jar target/cards
+mvn clean install
+java -jar target/cards-maven-0.0.1-SNAPSHOT.jar
