@@ -15,5 +15,5 @@ Use the following commands to clone, build and run the cards-maven project:
 4. Run API (port 8080):  `java -jar target/cards-maven-0.0.1-SNAPSHOT.jar`
 
 Note: By default server starts at port 8080. To start the server on a different port, use this command:
-'java -jar -Dserver.port=<PORT> target/cards-maven-0.0.1-SNAPSHOT.jar'
+`java -jar -Dserver.port=<PORT> target/cards-maven-0.0.1-SNAPSHOT.jar`
 
